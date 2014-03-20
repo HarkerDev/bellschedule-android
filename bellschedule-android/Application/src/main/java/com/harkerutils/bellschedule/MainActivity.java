@@ -4,6 +4,16 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/*
+Main activity panel for the Android Application
+
+Contains two methods:
+    onCreate(Bundle savedInstanceState)
+    onCreateOptionsMenu(Menu menu)
+
+Usage: create the menu for the application and set up runtime
+TODO: Link to the bellschedule UI
+ */
 public class MainActivity extends Activity {
 
     @Override
